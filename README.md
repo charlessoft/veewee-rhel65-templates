@@ -6,3 +6,9 @@
 5. vagrant package --base rhel65-minimal --output rhel65-64bit.box
 6. vagrant box add --name red65 rhel65-64bit.box
 7. vagrant init redhat65
+
+## 软件环境
+
++. veewee:0.4.5.1
+
++. ruby:2.2.4p230
